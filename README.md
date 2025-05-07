@@ -1,1 +1,2 @@
 # portfolio
+Hi, I'm Namrah Akram, an 8th-semester BSIT student at PUCIT, pursuing a Software Engineering degree. I have gained proficiency in languages like C, C++, Java, JavaScript, and basic Python, along with strong problem-solving skills. Over the course of my studies, I've worked on various projects, including a Movie App, World Wise App, and am currently focused on my FYP, GreenHeaven, using the MERN stack
